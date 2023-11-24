@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Davy 😀
 
-Sou estudante do Instituto Federal Catarinense Araquari estou cursando informática para a internet, tenho 17 anos e estou praticando desenho e design gráfico.
+Sou estudante do Instituto Federal Catarinense Araquari estou cursando informática para a internet, tenho 18 anos e estou praticando desenho e design gráfico.
 
 ### Redes sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davymseboldt/)
